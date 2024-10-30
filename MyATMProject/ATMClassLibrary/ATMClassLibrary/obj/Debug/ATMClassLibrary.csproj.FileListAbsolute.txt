@@ -1,0 +1,6 @@
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\bin\Debug\ATMClassLibrary.dll
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\bin\Debug\ATMClassLibrary.pdb
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\obj\Debug\ATMClassLibrary.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\obj\Debug\ATMClassLibrary.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\obj\Debug\ATMClassLibrary.dll
+C:\ВТк-24-1\C#\MyATMProject\ATMClassLibrary\ATMClassLibrary\obj\Debug\ATMClassLibrary.pdb

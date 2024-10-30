@@ -1,0 +1,10 @@
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\bin\Debug\ATMConsoleApp.exe.config
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\bin\Debug\ATMConsoleApp.exe
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\bin\Debug\ATMConsoleApp.pdb
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\bin\Debug\ATMClassLibrary.dll
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\bin\Debug\ATMClassLibrary.pdb
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\obj\Debug\ATMConsoleApp.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\obj\Debug\ATMConsoleApp.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\obj\Debug\ATMConso.CC66A6D2.Up2Date
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\obj\Debug\ATMConsoleApp.exe
+C:\ВТк-24-1\C#\MyATMProject\ATMConsoleApp\ATMConsoleApp\obj\Debug\ATMConsoleApp.pdb

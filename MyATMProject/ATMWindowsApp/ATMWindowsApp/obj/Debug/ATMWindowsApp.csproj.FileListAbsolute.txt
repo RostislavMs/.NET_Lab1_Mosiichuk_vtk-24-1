@@ -1,0 +1,13 @@
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\bin\Debug\ATMWindowsApp.exe.config
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\bin\Debug\ATMWindowsApp.exe
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\bin\Debug\ATMWindowsApp.pdb
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\bin\Debug\ATMClassLibrary.dll
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\bin\Debug\ATMClassLibrary.pdb
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.Form1.resources
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.Properties.Resources.resources
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.csproj.GenerateResource.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindo.70BBD72B.Up2Date
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.exe
+C:\ВТк-24-1\C#\MyATMProject\ATMWindowsApp\ATMWindowsApp\obj\Debug\ATMWindowsApp.pdb
